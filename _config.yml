@@ -1,0 +1,11 @@
+title: Carnet de Camille
+description: Chroniques design et architecture intérieure
+theme: minima
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
